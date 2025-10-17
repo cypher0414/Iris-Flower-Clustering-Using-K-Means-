@@ -104,13 +104,5 @@ Loaded the Iris dataset and verified data integrity (no missing or invalid value
 - K-Means can accurately uncover structure in unlabeled data.  
 - Comparison with true labels validates the quality of unsupervised models.
 
----
 
-
-
-## How to Run
-
-**Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/Iris-KMeans-Clustering.git
 
