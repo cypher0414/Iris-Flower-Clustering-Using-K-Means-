@@ -110,7 +110,7 @@ Loaded the Iris dataset and verified data integrity (no missing or invalid value
 
 ## How to Run
 
-1. **Clone this repository**
+**Clone this repository**
    ```bash
    git clone https://github.com/yourusername/Iris-KMeans-Clustering.git
 
